@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SantyAVICreator", "SantyAVICreator.vcproj", "{7B76A8C1-2DE3-4F51-B9E1-A941EE772A78}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7B76A8C1-2DE3-4F51-B9E1-A941EE772A78}.Debug.ActiveCfg = Release|Win32
+		{7B76A8C1-2DE3-4F51-B9E1-A941EE772A78}.Debug.Build.0 = Release|Win32
+		{7B76A8C1-2DE3-4F51-B9E1-A941EE772A78}.Release.ActiveCfg = Release|Win32
+		{7B76A8C1-2DE3-4F51-B9E1-A941EE772A78}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

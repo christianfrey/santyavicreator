@@ -15,5 +15,5 @@ Developed in January 2005 using C/Win32, this project was built with Visual Stud
 
 ## Notes
 
-To test the application, you'll find a `.rar` file in the `assets` folder.
+To test the application, you'll find a `.rar` file in the `assets` folder.  
 This file contains sample images and a sound file to help you create your first AVI video right away.
